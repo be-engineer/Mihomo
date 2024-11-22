@@ -37,20 +37,4 @@ Windows<br>
 大家伙共同维护一个适合大部分人的懒人配置<br>
 
 * [Mihomo配置文件](https://github.com/XXOOXXXXX/Clash.Meta-mihomo-/blob/main/config.yaml)
-
-机场推荐<br>
-====
-以下机场用着还凑活，主要是经济实惠
-* [miaona](https://miaona.org/#/register?code=C3J67GSL)
-* [魔戒](https://www.mojie.cyou/#/register?code=YjlCVXjA)
-* [极速云](https://512.jsy.lol/#/register?code=KmIpamty)
-* [顶级机场](https://xn--mes358a9urctx.com/#/register?code=wiPXjyYq)
-* [飞鸟云](https://www.feiniaoyun.xyz/#/register?code=1gZX21aI)
-* [淘气兔](https://vip.taoqitu.pro/index.html?register=rNh8X1zf)<br>
-
-感谢<br>
-====
-感谢以上所有开发者！排名不分先后<br>
-就不做推荐了，看中哪个用哪个，都超棒的！<br>
-
-完结！撒🌸
+<br>
