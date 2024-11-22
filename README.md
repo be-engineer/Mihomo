@@ -38,14 +38,6 @@ Windows<br>
 
 * [Mihomo配置文件](https://github.com/XXOOXXXXX/Clash.Meta-mihomo-/blob/main/config.yaml)
 
-机场推荐<br>
-====
-以下机场用着还凑活，主要是经济实惠
-* [miaona](https://miaona.org/#/register?code=C3J67GSL)
-* [魔戒](https://www.mojie.cyou/#/register?code=YjlCVXjA)
-* [极速云](https://512.jsy.lol/#/register?code=KmIpamty)
-* [顶级机场](https://xn--mes358a9urctx.com/#/register?code=wiPXjyYq)
-* [飞鸟云](https://www.feiniaoyun.xyz/#/register?code=1gZX21aI)
 * [淘气兔](https://vip.taoqitu.pro/index.html?register=rNh8X1zf)<br>
 
 感谢<br>
